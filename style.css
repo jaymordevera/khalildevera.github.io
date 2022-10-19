@@ -1,7 +1,7 @@
 body {
   background: #ffffff;
   color: #000000;
-  font-family: "Poppins";
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   line-height: 5px;
   background-image: url('assets/img/background.png');
