@@ -67,12 +67,6 @@ img {
   display: flex;
 }
 
-.bg-img {
-  display: inline-block;
-  text-align: left;
-  flex: 50%;
-}
-
 .resume{
   display: inline-block;
   text-align: left;
